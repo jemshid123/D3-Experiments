@@ -3,6 +3,5 @@
 This repo contains my experimentation with d3.js 
 
 <h2>Bar Chart</h2>
-<iframe src="/barChart/index.html" width="500" height="500"></iframe>
-
+<img src="https://github.com/jemshid123/D3-Experiments/blob/master/gifs/barChart.gif?raw=true" />
 </div>
